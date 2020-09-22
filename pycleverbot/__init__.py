@@ -78,4 +78,3 @@ class Cleverbot:
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.stop()
-        print("called stop")
